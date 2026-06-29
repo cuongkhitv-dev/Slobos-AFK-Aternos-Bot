@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "aerauma.mcsh.io",
-    "port": 11939,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
